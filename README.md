@@ -3,7 +3,7 @@
 
 Jeske Glenn
 
-https://github.com/JeskeG/proj5-maps
+https://github.com/JeskeG/proj5-mapfind
 
 An interactive website that takes the users current location on the map and
 finds locations to get burritos (may change this request) within a given radius.
